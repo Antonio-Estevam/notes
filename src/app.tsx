@@ -57,8 +57,7 @@ export function App() {
     <div className="mx-auto max-w-6xl my-12 space-y-6 px-5">
       <img src={logo} alt="Logo nlw" />
 
-      <form className="w-full">
-
+      <form className="w-full">      
       <input 
         type="text" 
         placeholder="Busque em suas notas..."
